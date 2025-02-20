@@ -24,7 +24,13 @@ These are the tools and technologies I’m currently working with:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
   ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)  
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JornToomingas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JornToomingas&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JornToomingas&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JornToomingas&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 
