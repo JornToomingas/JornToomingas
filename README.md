@@ -8,6 +8,7 @@
 - 🌱 Always growing and eager to collaborate on cool projects.
 - 📚 I'm currently learning HTML5 and Powershell.
 - ✨Always excited to learn something new!
+-💡 **Favorite Quote**: "kõva mees koolis aga koolis ma ei käi,ja auto-koolis ka ei käi(mul ei ole lube)ma ei käigi koolis,nii vist mulle näib" - Mc Vimpel
 
 ## 🛠️ Tools & Tech:
 
