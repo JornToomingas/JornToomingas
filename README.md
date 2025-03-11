@@ -33,3 +33,4 @@ These are the tools and technologies I'm currently working with:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JorntOOmingas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![JornToomingas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JornToomingas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br/>
+![JornToomingas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JornToomingas&theme=vue-dark&hide_border=true)
