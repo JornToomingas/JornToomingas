@@ -30,9 +30,6 @@ These are the tools and technologies I'm currently working with:
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)  
 
-## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=JornToomingas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JorntOOmingas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![JornToomingas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JornToomingas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br/>
